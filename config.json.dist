@@ -1,0 +1,11 @@
+{
+  "trello": {
+    "baseUri": "https://api.trello.com/1",
+    "credentials": {
+      "owner": {
+        "key": "",
+        "token": ""
+      }
+    }
+  }
+}
